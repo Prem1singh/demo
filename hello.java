@@ -7,4 +7,7 @@ class launch
     void m2(){
         //some extra code
     }
+    void m3(){
+        // cool
+    }
 }
