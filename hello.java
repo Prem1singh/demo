@@ -4,4 +4,7 @@ class launch
         //some code
         //ss
     }
+    void m2(){
+        //some extra code
+    }
 }
