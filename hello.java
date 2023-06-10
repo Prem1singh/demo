@@ -10,4 +10,7 @@ class launch
     void m3(){
         // cool
     }
+    void m4(){
+        //extra cool
+        }
 }
